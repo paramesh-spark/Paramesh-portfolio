@@ -1,0 +1,32 @@
+*{
+    font-family: 'poppins' , sans-serif;
+}
+
+.banner{
+    background-image: url(./images/leone-venter-VieM9BdZKFo-unsplash\ \(1\).jpg);
+    padding: 150px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.mypic{
+    width: 190px;
+    height: 340px ;
+    
+
+}
+.about-text{
+    text-align: justify;
+    justify-content: center;
+}
+.about-desc{
+    padding-left: 50px;
+    padding-right: 50px; 
+}
+ .skills-padding{
+    padding: 50px 0;
+     }
+ .soc-icons{
+    margin-left:70px;
+    padding-top: 5px ;
+   
+ }
